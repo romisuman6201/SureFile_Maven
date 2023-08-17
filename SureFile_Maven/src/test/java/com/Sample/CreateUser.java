@@ -12,5 +12,11 @@ public class CreateUser {
 	public void createAnother() {
 		System.out.println("===Another User is created===");
 	}
+	
+@Test
+public void manju()
+{
+	System.out.println("heyyyyyyy");
+}
 
 }
